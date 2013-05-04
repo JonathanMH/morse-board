@@ -1,7 +1,7 @@
 # More-Board
 Make your keyboard back light (or any other light source you can control with a bash command) show Morse code.
 
-![morse-board](keyboard_morse_code_nodejs.png)
+[![morse-board](keyboard_morse_code_nodejs.png)](http://www.youtube.com/watch?v=ruJs7hYHqzA)
 
 [Quick YouTube demo](http://www.youtube.com/watch?v=ruJs7hYHqzA)
 

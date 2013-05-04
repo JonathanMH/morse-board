@@ -8,5 +8,11 @@
   },
   "repository": "",
   "author": "",
+  { "dependencies" :
+    {
+      "async" : "*",
+      "morse" : "*"
+    }
+  },
   "license": "BSD"
 }
